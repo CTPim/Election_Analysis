@@ -17,6 +17,8 @@ The task of this challenge is to report the total number of votes cast, the tota
   - Raymon Anthony Doane: 11,606  (3.1% votes)
 - The **winner** of this election was Diana DeGette, with vote count of 272,892 (a 73.8% winning percentage).
 
+[Election Results Text File](analysis/election_results.txt)
+
 
 ## Election-Audit Summary
 This script can be used to analyze any election by finding data on vote counts, locations with the most turnouts, and how well candidates have done during the election. With that base script, we are able to see the other side of the results as well; this would be the candidate with the lowest votes, counties with lower turnouts, etc. We can further modify our script to find data such as which county each candidate had the most votes. This would tell us which county favored which candidate. 
